@@ -1,0 +1,2 @@
+Genera una lista di almeno 10 elementi inserendo come informazione un numero intero generato in modo casuale con range 1-9;
+togli dalla lista gli elementi pari inserendoli in una nuova lista puntata doppia.
